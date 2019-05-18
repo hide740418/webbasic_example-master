@@ -20,6 +20,8 @@ img {
 	-webkit-background-attachment: fixed;
      -moz-background-attachment: fixed;
      background-attachment: fixed;
+     -webkit-height: 100vh;
+     -moz-height: 100vh;
 	height: 100vh;
 	text-align: center;
 	position: relative;
