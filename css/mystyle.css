@@ -17,7 +17,9 @@ img {
 #header{
 	background: url(../images/bg-header.jpg) center top no-repeat;
 	background-size: cover;
-	background-attachment: fixed;
+	-webkit-background-attachment: fixed;
+     -moz-background-attachment: fixed;
+     background-attachment: fixed;
 	height: 100vh;
 	text-align: center;
 	position: relative;
