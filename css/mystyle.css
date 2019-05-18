@@ -396,10 +396,7 @@ form #subText2{
 		display: flex;
 		justify-content: center;
 	}
-	form{		
-		
-		}
-
+	
 	form input{
 		display: block;
 		width: 200%;
