@@ -396,10 +396,13 @@ form #subText2{
 		display: flex;
 		justify-content: center;
 	}
+	form{		
+		
+		}
 
 	form input{
 		display: block;
-		width: 200%;
+		width: 100%;
 		height: 40px;
 		padding: 5px 0;
 		background:#fff; 
@@ -421,15 +424,15 @@ form #subText2{
 	}
 	.contact-img {
 		background: url(../images/footimg.jpg);
-		width: 30px;
-		
-		
+		width: 150px;
+		height: 250px;
+		margin-right: 100px;
 	}
 	.contact-img2 {
-		background: url(../images/menu3.jpg);		
-		width: 100px;
-		height: 100px;
-		
+		background: url(../images/footimg2.jpg);
+		width: 150px;
+		height: 250px;
+		margin-left: 100px;
 	}
 }
 
