@@ -396,7 +396,7 @@ form #subText2{
 		display: flex;
 		justify-content: center;
 	}
-	
+
 	form input{
 		display: block;
 		width: 200%;
@@ -421,12 +421,16 @@ form #subText2{
 	}
 	.contact-img {
 		background: url(../images/footimg.jpg);
+		background-size: cover;
+		position: relative;
 		width: 150px;
 		height: 250px;
 		
 	}
 	.contact-img2 {
 		background: url(../images/footimg2.jpg);
+		background-size: cover;
+		position: relative;
 		width: 150px;
 		height: 250px;
 	}
