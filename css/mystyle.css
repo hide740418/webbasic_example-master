@@ -421,18 +421,14 @@ form #subText2{
 	}
 	.contact-img {
 		background: url(../images/footimg.jpg);
-		background-size: cover;
-		position: relative;
-		width: 150px;
-		height: 250px;
+		width: 30px;
+		
 		
 	}
 	.contact-img2 {
-		background: url(../images/footimg2.jpg);
-		background-size: cover;
-		position: relative;
-		width: 150px;
-		height: 250px;
+		background: url(../images/footimg2.jpg);		
+		width: 30px;
+		
 	}
 }
 
