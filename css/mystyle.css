@@ -395,13 +395,13 @@ form #subText2{
 	}
 
 .contact-img {
-	background: url(../images/footimg.jpg) no-repeat;
+	background: url(../images/footimg.jpg);
 	width: 150px;
 	height: 250px;
 	margin-right: 100px;
 }
 .contact-img2 {
-	background: url(../images/footimg2.jpg) no-repeat;
+	background: url(../images/footimg2.jpg);
 	width: 150px;
 	height: 250px;
 	margin-left: 100px;
