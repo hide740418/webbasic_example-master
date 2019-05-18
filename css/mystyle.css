@@ -426,8 +426,9 @@ form #subText2{
 		
 	}
 	.contact-img2 {
-		background: url(../images/footimg2.jpg);		
-		width: 30px;
+		background: url(../images/menu3.jpg);		
+		width: 100px;
+		height: 100px;
 		
 	}
 }
