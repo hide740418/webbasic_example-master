@@ -402,7 +402,7 @@ form #subText2{
 
 	form input{
 		display: block;
-		width: 100%;
+		width: 200%;
 		height: 40px;
 		padding: 5px 0;
 		background:#fff; 
@@ -423,16 +423,16 @@ form #subText2{
 		height: 20px;
 	}
 	.contact-img {
-		background: url(../images/footimg.jpg);
+		background: url(../images/footimg.jpg) no-repeat;
 		width: 150px;
 		height: 250px;
-		margin-right: 50px;
+		margin-right: 100px;
 	}
 	.contact-img2 {
-		background: url(../images/footimg2.jpg);
+		background: url(../images/footimg2.jpg) no-repeat;
 		width: 150px;
 		height: 250px;
-		margin-left: 50px;
+		margin-left: 100px;
 	}
 }
 
